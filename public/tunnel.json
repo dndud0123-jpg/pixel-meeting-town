@@ -1,0 +1,7 @@
+{
+  "url": "http://localhost:5173",
+  "provider": "local",
+  "status": "fallback",
+  "notice": "사내 보안 방화벽으로 인해 로컬 IP 주소로 대체되었습니다.",
+  "updatedAt": 1792479686154
+}
